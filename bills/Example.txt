@@ -1,0 +1,5 @@
+Bill BreakDown: 
+Example 1:     ...$21
+Example 2:     ...$23
+tip            ...$4
+total:         ...$48.00
